@@ -1,0 +1,9 @@
+CO_0001,Bomba's Adventures,Tatelo,20-04-420,Re Xato,42000,1
+PO_0002,Megadeth,M,15,10
+PO_0003,Goku,M,15,12
+BA_0004,Beith Ruth,Bateador,Epica,2000,2
+FC_0005,Natsu,Normal,No,30,7
+CO_0006,Triton's Adventures,Tatelo,20-04-420,The Worst,41000,2
+CO_0007,Vackura's Adventures,Tatelo,20-04-425,The Very Worst,420420,3
+BA_0008,JulioProfe,Profesor,Legendaria,99999,1
+PO_0009,FuX,L,15,5
